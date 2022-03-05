@@ -1,4 +1,4 @@
-
+# Setup
 ### First cd into react_frontend
 
 ### To install the dependencies
