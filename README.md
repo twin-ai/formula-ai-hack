@@ -1,13 +1,13 @@
 # twin-formula-ai-hack
-## First cd into react_frontend
+### First cd into react_frontend
 
-## To install the dependencies
+##% To install the dependencies
 `npm install`
 
-## To build after development
+### To build after development
 `npm build`
 
-## To add the APIs
+### To add the APIs
 - edit /src/component/fileInput.js
 - comment out line 28
 - uncomment line 24 - 27
