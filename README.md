@@ -1,7 +1,7 @@
 # twin-formula-ai-hack
 ### First cd into react_frontend
 
-##% To install the dependencies
+### To install the dependencies
 `npm install`
 
 ### To build after development
