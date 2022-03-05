@@ -1,4 +1,4 @@
-# games-formulaaihack
+# twin-formula-ai-hack
 ## First cd into react_frontend
 
 ## To install the dependencies
