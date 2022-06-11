@@ -1,5 +1,5 @@
 # Oracle FormulaAI Hack Global Competition 2022 - Team TwinAI Solution
-This repo contains our solution to Challenge 1 of the **Oracle FormulaAI Hack 2022**. Our team emerged as one of the 9 prize-winning teams and won the Newcomer Team award.
+This repo contains our winning solution to Challenge 1 of the **Oracle FormulaAI Hack 2022**. Our team emerged as one of the 9 prize-winning teams and won the Newcomer Team award.
 
 ## Challenge 1 Background
 
@@ -35,7 +35,7 @@ Our team, Team TwinAI, consisted of 8 members and was further divided into 3 sub
 ## Our Winning Solution
 Our solution, [Learning to Hack F1 2021 Weather Conditions](https://github.com/zion-king/twin-ai-formula-ai-hack/blob/main/final-solution-notebooks/twin-ai-full-notebook-solution.ipynb), presented an end-to-end machine learning workflow for creating a high-performing model to forecast the weather conditions of a F1 2021 game session. Our model is able to accurately predict the weather type 5, 10, 15, 30 and 60 minutes after a timestamp, and the corresponding rain percentage probability at each time. See the video pitch of our solution [here](https://youtu.be/W8kyFGJE7d4).
 
-## Our Prize
-We ranked among the 9 prize winners globally and won the Newcomer Team awards worth $5,000. We were proud to represent Africa among all prize winners. See prize announcement on [Linkedin](https://www.linkedin.com/posts/hackmakers_formulaai-worldinnovationday-hackathon-activity-6914783292424601600-t2W1?utm_source=linkedin_share&utm_medium=android_app) and [Youtube](https://youtu.be/vTCfR9eB_mo)
+## Prize Announcement
+We ranked among the 9 prize winners globally and won the Newcomer Team awards worth $5,000. We were proud to represent Africa among all prize winners. See announcement of our awards on [Linkedin](https://www.linkedin.com/posts/hackmakers_formulaai-worldinnovationday-hackathon-activity-6914783292424601600-t2W1?utm_source=linkedin_share&utm_medium=android_app) and [Youtube](https://youtu.be/vTCfR9eB_mo)
 
 [![](https://img.youtube.com/vi/vTCfR9eB_mo/0.jpg)](https://youtu.be/vTCfR9eB_mo "Click to watch on YouTube")
