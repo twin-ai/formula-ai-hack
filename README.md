@@ -14,7 +14,7 @@ Points, and even races sometimes, are won and lost based on making sense of what
 Therefore, weather forecasting takes a big part on the possible outcome of a race. Similarly, F1 2021, the official Formula 1 videogame developed by Codemasters, uses a physics engine that behaves like the real world.
 
 ## Objective
-The objective of Challenge 1 was to build an accurate weather forecasting model for the F1 2021 videogame using historical weather data from the RedBull Racing eSports team. See full details of the problem specification on the [official challenge repo](https://github.com/oracle-devrel/formula-ai-2022-hackathon/blob/main/challenges/challenge1.md)
+The objective of Challenge 1 was to build an accurate weather forecasting model for the F1 2021 videogame using historical weather data from the RedBull Racing eSports team. See full details of the problem specification on the [official challenge repo](https://github.com/oracle-devrel/formula-ai-2022-hackathon/blob/main/challenges/challenge1.md).
 
 ## Our Team
 Our team, Team TwinAI, consisted of 8 members and was further divided into 3 subteams for efficient workflow management. Here's the team distribution:
@@ -31,3 +31,11 @@ Our team, Team TwinAI, consisted of 8 members and was further divided into 3 sub
 - Kimberly Peters
 
 ![Image](Twin-AI-Winner-Banner.jpg)
+
+## Our Winning Solution
+Our solution, [Learning to Hack F1 2021 Weather Conditions](https://github.com/zion-king/twin-ai-formula-ai-hack/blob/main/final-solution-notebooks/twin-ai-full-notebook-solution.ipynb), presented an end-to-end machine learning workflow for creating a high-performing model to forecast the weather conditions of a F1 2021 game session. Our model is able to accurately predict the weather type 5, 10, 15, 30 and 60 minutes after a timestamp, and the corresponding rain percentage probability at each time. See the video pitch of our solution [here](https://youtu.be/W8kyFGJE7d4).
+
+## Our Prize
+We ranked among the 9 prize winners globally and won the Newcomer Team awards worth $5,000. We were proud to represent Africa among all prize winners. See prize announcement on [Linkedin](https://www.linkedin.com/posts/hackmakers_formulaai-worldinnovationday-hackathon-activity-6914783292424601600-t2W1?utm_source=linkedin_share&utm_medium=android_app) and [Youtube](https://youtu.be/vTCfR9eB_mo)
+
+![Video](https://youtu.be/vTCfR9eB_mo)
