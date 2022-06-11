@@ -17,7 +17,7 @@ Therefore, weather forecasting takes a big part on the possible outcome of a rac
 The objective of Challenge 1 was to build an accurate weather forecasting model for the F1 2021 videogame using historical weather data from the RedBull Racing eSports team. See full details of the problem specification on the [official challenge repo](https://github.com/oracle-devrel/formula-ai-2022-hackathon/blob/main/challenges/challenge1.md)
 
 ## Our Team
-Our team consisted of 8 members and was further divided into 3 subteams for efficient workflow management. Here's the team distribution:
+Our team, Team TwinAI, consisted of 8 members and was further divided into 3 subteams for efficient workflow management. Here's the team distribution:
 #### Analysis & Machine Learning 
 - [Zion Pibowei](https://github.com/zion-king)
 - [AC Nice](https://github.com/anochima)
