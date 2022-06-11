@@ -22,11 +22,11 @@ Our team, Team TwinAI, consisted of 8 members and was further divided into 3 sub
 - [Zion Pibowei](https://github.com/zion-king)
 - [AC Nice](https://github.com/anochima)
 - [Temitayo Adejuyigbe](https://github.com/Tbenseu)
+#### Engineering
+- [Ayo Samuel](https://github.com/Stosan)
+- [Ugochukwu Ilonze](https://github.com/harryface)
 #### Product & Research
 - Mercy Oni
 - Precious Raman
 - Kimberly Peters
-#### Engineering
-- [Ayo Samuel](https://github.com/Stosan)
-- [Ugochukwu Ilonze](https://github.com/harryface)
-
+![Image](Twin-AI-Winner_Banner.jpg)
