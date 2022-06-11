@@ -29,4 +29,5 @@ Our team, Team TwinAI, consisted of 8 members and was further divided into 3 sub
 - Mercy Oni
 - Precious Raman
 - Kimberly Peters
-![Image](Twin-AI-Winner_Banner.jpg)
+
+![Image](Twin-AI-Winner-Banner.jpg)
