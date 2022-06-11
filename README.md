@@ -38,4 +38,4 @@ Our solution, [Learning to Hack F1 2021 Weather Conditions](https://github.com/z
 ## Our Prize
 We ranked among the 9 prize winners globally and won the Newcomer Team awards worth $5,000. We were proud to represent Africa among all prize winners. See prize announcement on [Linkedin](https://www.linkedin.com/posts/hackmakers_formulaai-worldinnovationday-hackathon-activity-6914783292424601600-t2W1?utm_source=linkedin_share&utm_medium=android_app) and [Youtube](https://youtu.be/vTCfR9eB_mo)
 
-[![Youtube](https://img.youtube.com/vi/VvTCfR9eB_moID/0.jpg)](https://youtu.be/vTCfR9eB_mo)
+[![Youtube](https://img.youtube.com/vi/vTCfR9eB_moID/0.jpg)](https://youtu.be/vTCfR9eB_mo)
