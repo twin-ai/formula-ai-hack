@@ -18,15 +18,15 @@ The objective of Challenge 1 was to build an accurate weather forecasting model 
 
 ## Our Team
 Our team consisted of 8 members and was further divided into 3 subteams for efficient workflow management. Here's the team distribution:
-### Analysis & Machine Learning 
+#### Analysis & Machine Learning 
 - [Zion Pibowei](https://github.com/zion-king)
-- [AC Nice](https://github.com/orgs/twin-ai/people/anochima)
+- [AC Nice](https://github.com/anochima)
 - [Temitayo Adejuyigbe](https://github.com/Tbenseu)
-### Product & Research
+#### Product & Research
 - Mercy Oni
 - Precious Raman
 - Kimberly Peters
-### Engineering
+#### Engineering
 - [Ayo Samuel](https://github.com/Stosan)
 - [Ugochukwu Ilonze](https://github.com/harryface)
 
