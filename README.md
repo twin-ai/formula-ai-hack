@@ -36,6 +36,6 @@ Our team, Team TwinAI, consisted of 8 members and was further divided into 3 sub
 Our solution, [Learning to Hack F1 2021 Weather Conditions](https://github.com/zion-king/twin-ai-formula-ai-hack/blob/main/final-solution-notebooks/twin-ai-full-notebook-solution.ipynb), consists of an end-to-end machine learning workflow for creating a high-performing model to forecast the weather conditions of a F1 2021 game session. Our model is able to accurately predict the weather type 5, 10, 15, 30 and 60 minutes after a timestamp, and the corresponding rain percentage probability at each time. See the video pitch of our solution [here](https://youtu.be/W8kyFGJE7d4).
 
 ## Prize Announcement
-We won the Newcomer Team awards, worth $5,000, and were proud to represent Africa among the 9 prize winners. See eofficial prize announcement on [Linkedin](https://www.linkedin.com/posts/hackmakers_formulaai-worldinnovationday-hackathon-activity-6914783292424601600-t2W1?utm_source=linkedin_share&utm_medium=android_app) and [Youtube](https://youtu.be/vTCfR9eB_mo).
+We won the Newcomer Team awards, worth $5,000, and were proud to represent Africa among the 9 prize winners. See official prize announcement on [Linkedin](https://www.linkedin.com/posts/hackmakers_formulaai-worldinnovationday-hackathon-activity-6914783292424601600-t2W1?utm_source=linkedin_share&utm_medium=android_app) and [Youtube](https://youtu.be/vTCfR9eB_mo).
 
 [![](https://img.youtube.com/vi/vTCfR9eB_mo/0.jpg)](https://youtu.be/vTCfR9eB_mo "Click to watch on YouTube")
